@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Kotlin,Devops**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
